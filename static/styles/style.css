@@ -1,0 +1,32 @@
+body {
+   background: linear-gradient(188deg, #def0fb 0%, #fff 100%);
+}
+
+.txrsize {
+   display:inline-block;
+   background-color: #a5acb1;
+   padding: 10px;
+   border-radius: 10px;
+   color: #f1f1f1;
+   font-size: 32px;
+   margin-right: 100px;
+   margin-left: 100px;
+   margin-top: 150px;
+}
+
+@media (max-width: 800px) {
+   .txrsize {
+      display:inline-block;
+      background-color: #a5acb1;
+      padding: 5px;
+      border-radius: 10px;
+      color: #f1f1f1;
+      font-size: 20px;
+      margin-right: 50px;
+      margin-left: 50px;
+      margin-top: 50px;
+   }
+}
+.pon4ik:hover {
+   color: aquamarine;
+}
